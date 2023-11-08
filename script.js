@@ -18,7 +18,7 @@ async function getData() {
   document.getElementById('pho').innerHTML = word['phonetic_spelling'];
   document.getElementById('type').innerHTML = word['word_type'];
   document.getElementById('def').innerHTML = word['definition'];
-  document.getElementById('ex').innerHTML = word['example_sentence'];
+  document.getElementById('ex').innerHTML = '"'+ word['example_sentence'] +'"';
 
     console.log(data[0])
     console.log(d)
