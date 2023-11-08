@@ -1,3 +1,3 @@
 # fakedict
-Generates a new fake word every day./
+Generates a new fake word every day.\
 Inspired by Google Dictionary
