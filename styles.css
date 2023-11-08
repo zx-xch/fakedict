@@ -11,6 +11,10 @@ a {
     cursor: pointer;
 }
 
+.top {
+    padding-bottom: 5vh;
+}
+
 .logo {
     color: #D8D8D8;
     font-family: Bakbak One;
@@ -22,8 +26,6 @@ a {
     flex-shrink: 0;
     align-items: center;
     text-align: center;
-    padding-top: 3vh;
-    padding-bottom: 5vh;
 }
 
 
@@ -41,7 +43,8 @@ a {
     flex-shrink: 0;
     align-items: center;
     text-align: center;
-    padding-bottom: 8vh;
+    padding-bottom: 10vh;
+    padding-top: 8vh;
 }
 
 .date {
@@ -51,7 +54,6 @@ font-size: 2.5vh;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-padding: 1vh;
 }
 
 .word {
